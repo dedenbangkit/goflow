@@ -31,3 +31,4 @@ goflow
 
 - [Flow Web-form](https://flowsupport.akvo.org/article/show/111363-webforms)
 - [Akvo Flow REST API](https://github.com/akvo/akvo-flow-api/wiki/Akvo-Flow-REST-API)
+- [Akvo SSO login](https://github.com/akvo/akvo-flow-api/wiki/Akvo-SSO-login)
