@@ -7,7 +7,7 @@ Call Akvo Flow Web-form from CLI.
 ### Installation
 
 ```bash
-go get dedenbangkit/goflow
+go get github.com/dedenbangkit/goflow
 ```
 
 Setup the required environment below:
