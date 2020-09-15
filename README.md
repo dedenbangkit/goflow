@@ -25,6 +25,7 @@ FLOW_API_URL='https://api-auth0.akvo.org/flow/orgs/<your_organisation>'
 ```bash
 goflow
 ```
+![goflow](https://user-images.githubusercontent.com/3245109/93194120-ed21c580-f771-11ea-806c-208a9cb4670f.gif)
 
 ### Related Links
 
