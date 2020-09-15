@@ -2,7 +2,7 @@
 
 Call Akvo Flow Web-form from CLI.
 
-![cover](https://user-images.githubusercontent.com/3245109/93149946-0733b780-f722-11ea-8a5d-f983ae16e84d.jpg)
+![cover](https://user-images.githubusercontent.com/3245109/93150872-7f02e180-f724-11ea-963e-4fccf1be7f80.png)
 
 ### Installation
 
